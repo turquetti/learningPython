@@ -1,4 +1,4 @@
-# My Pyhton Journey! 🐍
+# My Phyton Journey! 🐍
 
 Follow along my journey trying to figure out Phyton!
 
