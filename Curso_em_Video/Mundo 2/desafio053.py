@@ -4,6 +4,11 @@ frase = input("Digite uma frase e descubra se ela é um palindromo: ").lower()
 
 frase_s_espaco = frase.replace(" ", "")
 
-for c in range(::-1)
+aux = ""
+for c in range(0, len(frase_s_espaco)):
+    aux += frase_s_espaco[c]
 
-print(frase)
+if aux == aux[::-1]:
+    print("É palindromo")
+else:
+    print("Não é palindromo")
