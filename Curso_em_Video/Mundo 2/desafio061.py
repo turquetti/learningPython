@@ -1,0 +1,1 @@
+# Refaça o desafio 5 lendo o primeiro termo e a razao de uma PA motsrando os 10 primeiros termos da progressao usando while
