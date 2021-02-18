@@ -1,0 +1,2 @@
+# Leia idade, sexo de varias pessoas. O programa deve perguntar ao usuario se ele quer ou nao continuar. No final mostre
+# quantas pessoas tem mais de 18, quantos homens, quantas mulheres tem menos de 20 anos.

@@ -1,0 +1,1 @@
+# Jogue par ou impar com o computador, o jogo só sera interrompido quando o jogador perder. E mostre quantas jogadas vc fez ate perder.
