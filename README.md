@@ -2,9 +2,9 @@
 
 ![Markdown](https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif)
 
-## Hey you! 🐍
+## Hey you! 👋
 
-Thanks for coming! 
+Thanks for stopping by!
 Here in this repo, you will follow along my journey trying to figure out how to code in Phyton! Enjoy! 🐍🐍
 
 ## **🐍 Here's what I learned so far**
