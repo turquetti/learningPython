@@ -5,7 +5,7 @@
 ## Hey you! 👋
 
 Thanks for stopping by!
-Here in this repo, you will follow along my journey trying to figure out how to code in Phyton! Enjoy! 🐍🐍
+Here in this repo, you will follow along my journey trying to figure out how to code in Python! Enjoy! 🐍🐍
 
 ## **🐍 Here's what I learned so far**
 
