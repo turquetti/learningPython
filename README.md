@@ -2,11 +2,19 @@
 
 ![Markdown](https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif)
 
+## Hey you! 🐍
+***
+Thanks for coming! 
+Here in this repo, you will follow along my journey trying to figure out how to code in Phyton! Enjoy! 🐍🐍
+***
 
-Follow along my journey trying to figure out Phyton!
+## **🐍 Here's what I learned so far**
+***
 
+### ☞ Subjects
+***
 
-## **Here are the courses I took so far**
+### ☞ Courses
 ***
 
 1. **Guanabara's 40h crash course** - Part 1 (Available only in Portuguese!):[ Click on me!](https://www.cursoemvideo.com/course/python-3-mundo-1/)
