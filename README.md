@@ -9,10 +9,10 @@ Here in this repo, you will follow along my journey trying to figure out how to 
 
 ## **🐍 Here's what I learned so far**
 
-### ☞ Subjects
+- Subjects
 ***
 
-### ☞ Courses
+- Courses
 ***
 
 1. **Guanabara's 40h crash course** - Part 1 (Available only in Portuguese!):[ Click on me!](https://www.cursoemvideo.com/course/python-3-mundo-1/)
