@@ -9,8 +9,15 @@ Here in this repo, you will follow along my journey trying to figure out how to 
 
 ## **🐍 Here's what I learned so far**
 
-- Subjects
+- Subjects that I learned so far
 ***
+Assuntos Abordados | 
+:--------- | 
+Variáveis|
+Condições|
+Funções|
+Loops|
+Tuplas|
 
 - Courses
 ***
