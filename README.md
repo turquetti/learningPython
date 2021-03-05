@@ -30,3 +30,8 @@ Tuplas|
 
 4. _(CURRENT COURSE!)_ **Alura's Course - Introdução a nova versão da linguagem** (Available only in Portuguese!): [ Click on me!](https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguagem)
 
+Thanks for you visit!
+See you!
+
+
+![](giphy.gif)
