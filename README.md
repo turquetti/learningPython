@@ -2,11 +2,24 @@
 
 ![Markdown](https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif)
 
+## Hey you! 👋
 
-Follow along my journey trying to figure out Phyton!
+Thanks for stopping by!
+Here in this repo, you will follow along my journey trying to figure out how to code in Python! Enjoy! 🐍🐍
 
+## **🐍 Here's what I learned so far**
 
-## **Here are the courses I took so far**
+- Subjects that I learned so far
+***
+Assuntos Abordados | 
+:--------- | 
+Variáveis|
+Condições|
+Funções|
+Loops|
+Tuplas|
+
+- Courses
 ***
 
 1. **Guanabara's 40h crash course** - Part 1 (Available only in Portuguese!):[ Click on me!](https://www.cursoemvideo.com/course/python-3-mundo-1/)
