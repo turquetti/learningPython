@@ -1,11 +1,14 @@
 # **My Python Journey!** 🐍
-
-![Markdown](https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif">
+</p>
 
 ## Hey you! 👋
 
 Thanks for stopping by!
-Here in this repo, you will follow along my journey trying to figure out how to code in Python! Enjoy! 🐍🐍
+Here in this repo, you will follow along my journey trying to figure out how to code in Python! 
+
+Enjoy! 🐍🐍
 
 ## **🐍 Here's what I learned so far**
 
@@ -34,4 +37,6 @@ Thanks for you visit!
 See you!
 
 
-![](giphy.gif)
+<p align="center">
+  <img src="giphy.gif">
+</p>
