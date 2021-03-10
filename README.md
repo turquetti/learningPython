@@ -1,4 +1,5 @@
-# **My Python Journey!** 🐍
+<h1 align="center">My Python Journey! 🐍</h1>
+
 <p align="center">
   <img src="https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif">
 </p>
