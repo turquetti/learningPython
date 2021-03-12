@@ -7,24 +7,18 @@
 ## Hey you! 👋
 
 Thanks for stopping by!
-Here in this repo, you will follow along my journey trying to figure out how to code in Python! 
+Here in this repo, you will follow along my journey trying to figure out how to code in Python! 🐍
 
-Enjoy! 🐍🐍
+<h2 align="center">AVAILABLE CONTENT YOU'LL FIND HERE!</h1> 
 
-## **🐍 Here's what I learned so far**
-
-- Subjects that I learned so far
-***
-Assuntos Abordados | 
-:--------- | 
-Variáveis|
-Condições|
-Funções|
-Loops|
-Tuplas|
-
-- Courses
-***
+<p align="center">For more information, make sure to check the README.md from each section. </p>
+<p align="center">
+  <a href="https://github.com/D20go/JogoResilia"> URI </a> |
+  <a href="https://github.com/serenozin/JogoResilia"> Curso em Vídeo </a> |
+  <a href="https://github.com/tsffarias/JogoResilia"> Alura </a>
+</p>
+ 
+## Courses I took so far
 
 1. **Guanabara's 40h crash course** - Part 1 (Available only in Portuguese!):[ Click on me!](https://www.cursoemvideo.com/course/python-3-mundo-1/)
 
