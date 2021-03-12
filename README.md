@@ -1,11 +1,15 @@
-# **My Python Journey!** 🐍
+<h1 align="center">My Python Journey! 🐍</h1>
 
-![Markdown](https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif">
+</p>
 
 ## Hey you! 👋
 
 Thanks for stopping by!
-Here in this repo, you will follow along my journey trying to figure out how to code in Python! Enjoy! 🐍🐍
+Here in this repo, you will follow along my journey trying to figure out how to code in Python! 
+
+Enjoy! 🐍🐍
 
 ## **🐍 Here's what I learned so far**
 
@@ -30,8 +34,10 @@ Tuplas|
 
 4. _(CURRENT COURSE!)_ **Alura's Course - Introdução a nova versão da linguagem** (Available only in Portuguese!): [ Click on me!](https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguagem)
 
+
+<p align="center">
+  <img src="giphy.gif">
+</p>
+
 Thanks for you visit!
 See you!
-
-
-![](giphy.gif)
